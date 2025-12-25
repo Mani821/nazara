@@ -19,4 +19,3 @@ class Nazara extends StatelessWidget {
   }
 }
 
-// AppStyle get $styles => WondersAppScaffold.style;
