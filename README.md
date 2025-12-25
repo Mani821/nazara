@@ -1,16 +1,32 @@
-# nazara
+# Nazara
 
-A new Flutter project.
+<img src="assets/icons/Nazara.png" alt="Nazara Logo" width="100" height="100">
 
-## Getting Started
+> Sometimes the best way to learn isn’t by inventing something new… it’s by rebuilding something that already exists.
 
-This project is a starting point for a Flutter application.
+This little demo app is called **Nazara** — and it started with curiosity.
 
-A few resources to get you started if this is your first Flutter project:
+I saw a beautifully crafted app with a very unique interaction and thought:
+> “I need to understand how this works on a deeper level.”
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+So yes — Nazara is inspired by (and copied from) an existing open-source app.
+No hiding it. No pretending.
+Just **learning by doing**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## In this demo:
+
+- I experimented with three onboarding screens using image masks
+- Built a simple gallery screen
+- Showcased 25 photos of Pakistan in a 5×5 grid
+- Fully swipeable in all directions — because exploring should feel free 🇵🇰✨
+
+That’s it.
+No features. No business logic.
+Just curiosity, exploration, and Flutter.
+
+I truly believe rebuilding open-source projects (with honesty and credit) is one of the fastest ways to grow as a developer.
+
+So if anyone asks, “Is this copied?”
+**Yes — and I already said it proudly 😄**
+
+
